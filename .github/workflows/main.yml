@@ -1,7 +1,6 @@
 # .github/workflows/example.yml
 name: Example
-on:
-  push:
+on: push
 
 jobs:
   build:
